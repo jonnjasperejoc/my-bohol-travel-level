@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<BoholPage />} />
+          <Route path="/my-bohol-travel-level" element={<BoholPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
