@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-bohol-travel-level/static/css/main.ddc88a45.css",
+    "main.js": "/my-bohol-travel-level/static/js/main.0b234b39.js",
+    "static/js/787.0ac877f8.chunk.js": "/my-bohol-travel-level/static/js/787.0ac877f8.chunk.js",
+    "index.html": "/my-bohol-travel-level/index.html",
+    "main.ddc88a45.css.map": "/my-bohol-travel-level/static/css/main.ddc88a45.css.map",
+    "main.0b234b39.js.map": "/my-bohol-travel-level/static/js/main.0b234b39.js.map",
+    "787.0ac877f8.chunk.js.map": "/my-bohol-travel-level/static/js/787.0ac877f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc88a45.css",
+    "static/js/main.0b234b39.js"
+  ]
+}
